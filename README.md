@@ -22,6 +22,5 @@ Machine Learning Models:
 
 ================================================================================
 
-Team members:       |         |        | Zhang Yong Zhe
 
 Project Tasks: a. Data Cleaning b. Data Visualisation  c.Machine Learning Models d. documentations & slides
